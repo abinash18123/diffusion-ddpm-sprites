@@ -31,15 +31,14 @@ inference_diffusion.ipynb
 
 ## Project Structure
 
-```
-diffusion(DDPM)/
-├── model.py              # U-Net diffusion model
-├── train.py              # Training script
-├── utilities.py          # Dataset and inference utilities
-├── inference_diffusion.ipynb  # Interactive notebook
-├── dataset/              # Sprite dataset
-└── weights/              # Model checkpoints
-```
+  diffusion(DDPM)/
+  ├── model.py              # U-Net diffusion model
+  ├── train.py              # Training script
+  ├── utilities.py          # Dataset and inference utilities
+  ├── inference_diffusion.ipynb  # Interactive notebook
+  ├── dataset/              # Sprite dataset
+  └── weights/              # Model checkpoints
+
 
 ## References
 
